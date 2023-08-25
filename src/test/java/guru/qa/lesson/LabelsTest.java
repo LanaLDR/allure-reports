@@ -1,4 +1,4 @@
-package guru.qa;
+package guru.qa.lesson;
 
 import io.qameta.allure.*;
 import org.junit.jupiter.api.DisplayName;
